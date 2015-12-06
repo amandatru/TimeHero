@@ -1,0 +1,25 @@
+Todo list
+Reward of free time for each task completed
+currency is used to buy free time
+website blocker
+blocked website page
+timer
+
+
+Todo list
+-reward values for each entry
+-adding/deleting entries
+
+Keep track of points
+-buy time on a website
+-get rewarded for each completed task
+-undo button for wrong checking
+
+Website blocker
+-gets a list of websites and keywords from users to block a website
+-website scraper to get keywords
+-block website address... redirect to another html
+
+Timer
+-show remaining time to stay on a certain webpage
+-redirect to block page when time is done
