@@ -23,3 +23,17 @@ Website blocker
 Timer
 -show remaining time to stay on a certain webpage
 -redirect to block page when time is done
+
+
+
+UI
+-todo list webpage ---> when icon is clicked and link (redirects)
+  -displays todo list
+  -displays money
+-"store" ---> found on todo list webpage (redirects)
+  -displays rewards
+  -block/unblock websites
+  -settings
+-timer display ---> when icon is clicked
+
+
